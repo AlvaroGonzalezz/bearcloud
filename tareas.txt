@@ -1,0 +1,4 @@
+TAREAS:
+- Hacer mas grande con font-size el texto de Descubre nuestra... de la etiqueta <p> y cambiar la fuente a la de Chau, como lo tenemos en el titulo
+- Hacer un poco mas grande la imagen del oso con width
+- Hacer mas abajo el contendor inicio manejando el margin-top
